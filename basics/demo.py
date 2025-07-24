@@ -14,7 +14,7 @@ print('He' in string1)
 l=[10,20,35]
 print(10 in l)
 print(10 not in l)
-
+print(10 not in l)
 
 x=10
 y=10
